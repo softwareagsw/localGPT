@@ -122,8 +122,9 @@ def load_model(device_type, model_id, model_basename=None):
 #    ),
 #    help="Show sources along with answers (Default is Fals)",
 #)
-
-llm = load_model("cpu", model_id="TheBloke/vicuna-7B-1.1-HF")
+model_id = "TheBloke/WizardLM-7B-uncensored-GPTQ"
+model_basename = "WizardLM-7B-uncensored-GPTQ-4bit-128g.compat.no-act-order.safetensors"
+llm = load_model("cuda", model_id=model_id, model_basename = model_basename)
 
 def greet(query):
     '''
