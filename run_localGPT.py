@@ -50,7 +50,7 @@ def load_model(device_type, model_id, model_basename=None):
 
         model = AutoGPTQForCausalLM.from_quantized(model_id,
         model_basename=model_basename,
-        device=device,
+        device="cuda:0",
         use_safetensors=True,
         use_triton=False)
         
