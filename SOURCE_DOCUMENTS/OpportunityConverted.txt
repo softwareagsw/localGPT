@@ -1,0 +1,420 @@
+January, 2018: 42 opportunities converted in Salesforce CRM.
+January, 2018: 21 opportunities converted in SageCRM.
+January, 2018: 32 opportunities converted in SugarCRM.
+January, 2018: 45 opportunities converted in MS Dynamics 365.
+January, 2018: 12 opportunities converted in Zoho CRM.
+January, 2018: 39 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2018 : 420
+February, 2018: 10 opportunities converted in Salesforce CRM.
+February, 2018: 2 opportunities converted in SageCRM.
+February, 2018: 10 opportunities converted in SugarCRM.
+February, 2018: 6 opportunities converted in MS Dynamics 365.
+February, 2018: 14 opportunities converted in Zoho CRM.
+February, 2018: 13 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2018 : 96
+March, 2018: 77 opportunities converted in Salesforce CRM.
+March, 2018: 52 opportunities converted in SageCRM.
+March, 2018: 38 opportunities converted in SugarCRM.
+March, 2018: 15 opportunities converted in MS Dynamics 365.
+March, 2018: 7 opportunities converted in Zoho CRM.
+March, 2018: 73 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2018 : 504
+April, 2018: 0 opportunities converted in Salesforce CRM.
+April, 2018: 17 opportunities converted in SageCRM.
+April, 2018: 18 opportunities converted in SugarCRM.
+April, 2018: 5 opportunities converted in MS Dynamics 365.
+April, 2018: 15 opportunities converted in Zoho CRM.
+April, 2018: 3 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2018 : 150
+May, 2018: 50 opportunities converted in Salesforce CRM.
+May, 2018: 13 opportunities converted in SageCRM.
+May, 2018: 10 opportunities converted in SugarCRM.
+May, 2018: 11 opportunities converted in MS Dynamics 365.
+May, 2018: 7 opportunities converted in Zoho CRM.
+May, 2018: 26 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2018 : 312
+June, 2018: 12 opportunities converted in Salesforce CRM.
+June, 2018: 28 opportunities converted in SageCRM.
+June, 2018: 27 opportunities converted in SugarCRM.
+June, 2018: 12 opportunities converted in MS Dynamics 365.
+June, 2018: 7 opportunities converted in Zoho CRM.
+June, 2018: 31 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2018 : 342
+July, 2018: 46 opportunities converted in Salesforce CRM.
+July, 2018: 31 opportunities converted in SageCRM.
+July, 2018: 32 opportunities converted in SugarCRM.
+July, 2018: 53 opportunities converted in MS Dynamics 365.
+July, 2018: 25 opportunities converted in Zoho CRM.
+July, 2018: 10 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2018 : 336
+August, 2018: 34 opportunities converted in Salesforce CRM.
+August, 2018: 23 opportunities converted in SageCRM.
+August, 2018: 17 opportunities converted in SugarCRM.
+August, 2018: 35 opportunities converted in MS Dynamics 365.
+August, 2018: 18 opportunities converted in Zoho CRM.
+August, 2018: 2 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2018 : 234
+September, 2018: 49 opportunities converted in Salesforce CRM.
+September, 2018: 51 opportunities converted in SageCRM.
+September, 2018: 72 opportunities converted in SugarCRM.
+September, 2018: 87 opportunities converted in MS Dynamics 365.
+September, 2018: 69 opportunities converted in Zoho CRM.
+September, 2018: 2 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2018 : 528
+October, 2018: 39 opportunities converted in Salesforce CRM.
+October, 2018: 34 opportunities converted in SageCRM.
+October, 2018: 23 opportunities converted in SugarCRM.
+October, 2018: 21 opportunities converted in MS Dynamics 365.
+October, 2018: 32 opportunities converted in Zoho CRM.
+October, 2018: 20 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2018 : 264
+November, 2018: 5 opportunities converted in Salesforce CRM.
+November, 2018: 4 opportunities converted in SageCRM.
+November, 2018: 5 opportunities converted in SugarCRM.
+November, 2018: 4 opportunities converted in MS Dynamics 365.
+November, 2018: 2 opportunities converted in Zoho CRM.
+November, 2018: 3 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2018 : 60
+December, 2018: 44 opportunities converted in Salesforce CRM.
+December, 2018: 45 opportunities converted in SageCRM.
+December, 2018: 40 opportunities converted in SugarCRM.
+December, 2018: 40 opportunities converted in MS Dynamics 365.
+December, 2018: 16 opportunities converted in Zoho CRM.
+December, 2018: 38 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2018 : 396
+January, 2019: 58 opportunities converted in Salesforce CRM.
+January, 2019: 28 opportunities converted in SageCRM.
+January, 2019: 57 opportunities converted in SugarCRM.
+January, 2019: 49 opportunities converted in MS Dynamics 365.
+January, 2019: 41 opportunities converted in Zoho CRM.
+January, 2019: 15 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2019 : 360
+February, 2019: 44 opportunities converted in Salesforce CRM.
+February, 2019: 18 opportunities converted in SageCRM.
+February, 2019: 33 opportunities converted in SugarCRM.
+February, 2019: 31 opportunities converted in MS Dynamics 365.
+February, 2019: 31 opportunities converted in Zoho CRM.
+February, 2019: 25 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2019 : 270
+March, 2019: 24 opportunities converted in Salesforce CRM.
+March, 2019: 4 opportunities converted in SageCRM.
+March, 2019: 1 opportunities converted in SugarCRM.
+March, 2019: 43 opportunities converted in MS Dynamics 365.
+March, 2019: 24 opportunities converted in Zoho CRM.
+March, 2019: 2 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2019 : 336
+April, 2019: 13 opportunities converted in Salesforce CRM.
+April, 2019: 9 opportunities converted in SageCRM.
+April, 2019: 25 opportunities converted in SugarCRM.
+April, 2019: 8 opportunities converted in MS Dynamics 365.
+April, 2019: 11 opportunities converted in Zoho CRM.
+April, 2019: 13 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2019 : 156
+May, 2019: 44 opportunities converted in Salesforce CRM.
+May, 2019: 41 opportunities converted in SageCRM.
+May, 2019: 44 opportunities converted in SugarCRM.
+May, 2019: 44 opportunities converted in MS Dynamics 365.
+May, 2019: 44 opportunities converted in Zoho CRM.
+May, 2019: 23 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2019 : 276
+June, 2019: 6 opportunities converted in Salesforce CRM.
+June, 2019: 4 opportunities converted in SageCRM.
+June, 2019: 10 opportunities converted in SugarCRM.
+June, 2019: 2 opportunities converted in MS Dynamics 365.
+June, 2019: 12 opportunities converted in Zoho CRM.
+June, 2019: 11 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2019 : 84
+July, 2019: 16 opportunities converted in Salesforce CRM.
+July, 2019: 7 opportunities converted in SageCRM.
+July, 2019: 12 opportunities converted in SugarCRM.
+July, 2019: 11 opportunities converted in MS Dynamics 365.
+July, 2019: 8 opportunities converted in Zoho CRM.
+July, 2019: 10 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2019 : 114
+August, 2019: 2 opportunities converted in Salesforce CRM.
+August, 2019: 20 opportunities converted in SageCRM.
+August, 2019: 6 opportunities converted in SugarCRM.
+August, 2019: 12 opportunities converted in MS Dynamics 365.
+August, 2019: 30 opportunities converted in Zoho CRM.
+August, 2019: 25 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2019 : 180
+September, 2019: 3 opportunities converted in Salesforce CRM.
+September, 2019: 1 opportunities converted in SageCRM.
+September, 2019: 7 opportunities converted in SugarCRM.
+September, 2019: 18 opportunities converted in MS Dynamics 365.
+September, 2019: 14 opportunities converted in Zoho CRM.
+September, 2019: 7 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2019 : 126
+October, 2019: 32 opportunities converted in Salesforce CRM.
+October, 2019: 3 opportunities converted in SageCRM.
+October, 2019: 14 opportunities converted in SugarCRM.
+October, 2019: 21 opportunities converted in MS Dynamics 365.
+October, 2019: 28 opportunities converted in Zoho CRM.
+October, 2019: 12 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2019 : 270
+November, 2019: 11 opportunities converted in Salesforce CRM.
+November, 2019: 10 opportunities converted in SageCRM.
+November, 2019: 35 opportunities converted in SugarCRM.
+November, 2019: 34 opportunities converted in MS Dynamics 365.
+November, 2019: 17 opportunities converted in Zoho CRM.
+November, 2019: 13 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2019 : 222
+December, 2019: 37 opportunities converted in Salesforce CRM.
+December, 2019: 25 opportunities converted in SageCRM.
+December, 2019: 21 opportunities converted in SugarCRM.
+December, 2019: 53 opportunities converted in MS Dynamics 365.
+December, 2019: 35 opportunities converted in Zoho CRM.
+December, 2019: 61 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2019 : 528
+January, 2020: 2 opportunities converted in Salesforce CRM.
+January, 2020: 13 opportunities converted in SageCRM.
+January, 2020: 11 opportunities converted in SugarCRM.
+January, 2020: 10 opportunities converted in MS Dynamics 365.
+January, 2020: 13 opportunities converted in Zoho CRM.
+January, 2020: 12 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2020 : 84
+February, 2020: 58 opportunities converted in Salesforce CRM.
+February, 2020: 55 opportunities converted in SageCRM.
+February, 2020: 19 opportunities converted in SugarCRM.
+February, 2020: 14 opportunities converted in MS Dynamics 365.
+February, 2020: 42 opportunities converted in Zoho CRM.
+February, 2020: 38 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2020 : 486
+March, 2020: 2 opportunities converted in Salesforce CRM.
+March, 2020: 13 opportunities converted in SageCRM.
+March, 2020: 2 opportunities converted in SugarCRM.
+March, 2020: 9 opportunities converted in MS Dynamics 365.
+March, 2020: 9 opportunities converted in Zoho CRM.
+March, 2020: 12 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2020 : 84
+April, 2020: 27 opportunities converted in Salesforce CRM.
+April, 2020: 18 opportunities converted in SageCRM.
+April, 2020: 20 opportunities converted in SugarCRM.
+April, 2020: 5 opportunities converted in MS Dynamics 365.
+April, 2020: 64 opportunities converted in Zoho CRM.
+April, 2020: 12 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2020 : 462
+May, 2020: 42 opportunities converted in Salesforce CRM.
+May, 2020: 43 opportunities converted in SageCRM.
+May, 2020: 20 opportunities converted in SugarCRM.
+May, 2020: 2 opportunities converted in MS Dynamics 365.
+May, 2020: 66 opportunities converted in Zoho CRM.
+May, 2020: 29 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2020 : 426
+June, 2020: 48 opportunities converted in Salesforce CRM.
+June, 2020: 44 opportunities converted in SageCRM.
+June, 2020: 1 opportunities converted in SugarCRM.
+June, 2020: 46 opportunities converted in MS Dynamics 365.
+June, 2020: 18 opportunities converted in Zoho CRM.
+June, 2020: 21 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2020 : 330
+July, 2020: 7 opportunities converted in Salesforce CRM.
+July, 2020: 8 opportunities converted in SageCRM.
+July, 2020: 3 opportunities converted in SugarCRM.
+July, 2020: 2 opportunities converted in MS Dynamics 365.
+July, 2020: 7 opportunities converted in Zoho CRM.
+July, 2020: 0 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2020 : 48
+August, 2020: 8 opportunities converted in Salesforce CRM.
+August, 2020: 10 opportunities converted in SageCRM.
+August, 2020: 8 opportunities converted in SugarCRM.
+August, 2020: 3 opportunities converted in MS Dynamics 365.
+August, 2020: 5 opportunities converted in Zoho CRM.
+August, 2020: 5 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2020 : 60
+September, 2020: 20 opportunities converted in Salesforce CRM.
+September, 2020: 28 opportunities converted in SageCRM.
+September, 2020: 21 opportunities converted in SugarCRM.
+September, 2020: 33 opportunities converted in MS Dynamics 365.
+September, 2020: 60 opportunities converted in Zoho CRM.
+September, 2020: 0 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2020 : 480
+October, 2020: 20 opportunities converted in Salesforce CRM.
+October, 2020: 22 opportunities converted in SageCRM.
+October, 2020: 37 opportunities converted in SugarCRM.
+October, 2020: 5 opportunities converted in MS Dynamics 365.
+October, 2020: 11 opportunities converted in Zoho CRM.
+October, 2020: 41 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2020 : 276
+November, 2020: 57 opportunities converted in Salesforce CRM.
+November, 2020: 43 opportunities converted in SageCRM.
+November, 2020: 6 opportunities converted in SugarCRM.
+November, 2020: 52 opportunities converted in MS Dynamics 365.
+November, 2020: 31 opportunities converted in Zoho CRM.
+November, 2020: 47 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2020 : 420
+December, 2020: 23 opportunities converted in Salesforce CRM.
+December, 2020: 48 opportunities converted in SageCRM.
+December, 2020: 24 opportunities converted in SugarCRM.
+December, 2020: 34 opportunities converted in MS Dynamics 365.
+December, 2020: 27 opportunities converted in Zoho CRM.
+December, 2020: 16 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2020 : 300
+January, 2021: 83 opportunities converted in Salesforce CRM.
+January, 2021: 14 opportunities converted in SageCRM.
+January, 2021: 46 opportunities converted in SugarCRM.
+January, 2021: 31 opportunities converted in MS Dynamics 365.
+January, 2021: 80 opportunities converted in Zoho CRM.
+January, 2021: 40 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2021 : 510
+February, 2021: 2 opportunities converted in Salesforce CRM.
+February, 2021: 1 opportunities converted in SageCRM.
+February, 2021: 2 opportunities converted in SugarCRM.
+February, 2021: 4 opportunities converted in MS Dynamics 365.
+February, 2021: 2 opportunities converted in Zoho CRM.
+February, 2021: 3 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2021 : 30
+March, 2021: 1 opportunities converted in Salesforce CRM.
+March, 2021: 1 opportunities converted in SageCRM.
+March, 2021: 1 opportunities converted in SugarCRM.
+March, 2021: 1 opportunities converted in MS Dynamics 365.
+March, 2021: 0 opportunities converted in Zoho CRM.
+March, 2021: 1 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2021 : 6
+April, 2021: 2 opportunities converted in Salesforce CRM.
+April, 2021: 2 opportunities converted in SageCRM.
+April, 2021: 1 opportunities converted in SugarCRM.
+April, 2021: 1 opportunities converted in MS Dynamics 365.
+April, 2021: 2 opportunities converted in Zoho CRM.
+April, 2021: 0 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2021 : 18
+May, 2021: 35 opportunities converted in Salesforce CRM.
+May, 2021: 29 opportunities converted in SageCRM.
+May, 2021: 13 opportunities converted in SugarCRM.
+May, 2021: 39 opportunities converted in MS Dynamics 365.
+May, 2021: 17 opportunities converted in Zoho CRM.
+May, 2021: 26 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2021 : 252
+June, 2021: 7 opportunities converted in Salesforce CRM.
+June, 2021: 2 opportunities converted in SageCRM.
+June, 2021: 47 opportunities converted in SugarCRM.
+June, 2021: 71 opportunities converted in MS Dynamics 365.
+June, 2021: 53 opportunities converted in Zoho CRM.
+June, 2021: 19 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2021 : 444
+July, 2021: 17 opportunities converted in Salesforce CRM.
+July, 2021: 57 opportunities converted in SageCRM.
+July, 2021: 28 opportunities converted in SugarCRM.
+July, 2021: 2 opportunities converted in MS Dynamics 365.
+July, 2021: 2 opportunities converted in Zoho CRM.
+July, 2021: 16 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2021 : 372
+August, 2021: 2 opportunities converted in Salesforce CRM.
+August, 2021: 57 opportunities converted in SageCRM.
+August, 2021: 12 opportunities converted in SugarCRM.
+August, 2021: 51 opportunities converted in MS Dynamics 365.
+August, 2021: 8 opportunities converted in Zoho CRM.
+August, 2021: 48 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2021 : 450
+September, 2021: 3 opportunities converted in Salesforce CRM.
+September, 2021: 1 opportunities converted in SageCRM.
+September, 2021: 5 opportunities converted in SugarCRM.
+September, 2021: 1 opportunities converted in MS Dynamics 365.
+September, 2021: 5 opportunities converted in Zoho CRM.
+September, 2021: 3 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2021 : 48
+October, 2021: 20 opportunities converted in Salesforce CRM.
+October, 2021: 14 opportunities converted in SageCRM.
+October, 2021: 24 opportunities converted in SugarCRM.
+October, 2021: 57 opportunities converted in MS Dynamics 365.
+October, 2021: 18 opportunities converted in Zoho CRM.
+October, 2021: 20 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2021 : 480
+November, 2021: 4 opportunities converted in Salesforce CRM.
+November, 2021: 5 opportunities converted in SageCRM.
+November, 2021: 4 opportunities converted in SugarCRM.
+November, 2021: 7 opportunities converted in MS Dynamics 365.
+November, 2021: 1 opportunities converted in Zoho CRM.
+November, 2021: 1 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2021 : 48
+December, 2021: 28 opportunities converted in Salesforce CRM.
+December, 2021: 66 opportunities converted in SageCRM.
+December, 2021: 65 opportunities converted in SugarCRM.
+December, 2021: 9 opportunities converted in MS Dynamics 365.
+December, 2021: 29 opportunities converted in Zoho CRM.
+December, 2021: 44 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2021 : 474
+January, 2022: 1 opportunities converted in Salesforce CRM.
+January, 2022: 4 opportunities converted in SageCRM.
+January, 2022: 5 opportunities converted in SugarCRM.
+January, 2022: 8 opportunities converted in MS Dynamics 365.
+January, 2022: 3 opportunities converted in Zoho CRM.
+January, 2022: 8 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2022 : 48
+February, 2022: 50 opportunities converted in Salesforce CRM.
+February, 2022: 65 opportunities converted in SageCRM.
+February, 2022: 18 opportunities converted in SugarCRM.
+February, 2022: 24 opportunities converted in MS Dynamics 365.
+February, 2022: 22 opportunities converted in Zoho CRM.
+February, 2022: 66 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2022 : 450
+March, 2022: 3 opportunities converted in Salesforce CRM.
+March, 2022: 5 opportunities converted in SageCRM.
+March, 2022: 35 opportunities converted in SugarCRM.
+March, 2022: 48 opportunities converted in MS Dynamics 365.
+March, 2022: 44 opportunities converted in Zoho CRM.
+March, 2022: 52 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2022 : 456
+April, 2022: 12 opportunities converted in Salesforce CRM.
+April, 2022: 19 opportunities converted in SageCRM.
+April, 2022: 42 opportunities converted in SugarCRM.
+April, 2022: 37 opportunities converted in MS Dynamics 365.
+April, 2022: 45 opportunities converted in Zoho CRM.
+April, 2022: 46 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2022 : 300
+May, 2022: 21 opportunities converted in Salesforce CRM.
+May, 2022: 8 opportunities converted in SageCRM.
+May, 2022: 29 opportunities converted in SugarCRM.
+May, 2022: 0 opportunities converted in MS Dynamics 365.
+May, 2022: 25 opportunities converted in Zoho CRM.
+May, 2022: 8 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2022 : 360
+June, 2022: 16 opportunities converted in Salesforce CRM.
+June, 2022: 74 opportunities converted in SageCRM.
+June, 2022: 71 opportunities converted in SugarCRM.
+June, 2022: 5 opportunities converted in MS Dynamics 365.
+June, 2022: 67 opportunities converted in Zoho CRM.
+June, 2022: 61 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2022 : 498
+July, 2022: 0 opportunities converted in Salesforce CRM.
+July, 2022: 1 opportunities converted in SageCRM.
+July, 2022: 0 opportunities converted in SugarCRM.
+July, 2022: 0 opportunities converted in MS Dynamics 365.
+July, 2022: 0 opportunities converted in Zoho CRM.
+July, 2022: 0 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2022 : 6
+August, 2022: 23 opportunities converted in Salesforce CRM.
+August, 2022: 56 opportunities converted in SageCRM.
+August, 2022: 57 opportunities converted in SugarCRM.
+August, 2022: 5 opportunities converted in MS Dynamics 365.
+August, 2022: 14 opportunities converted in Zoho CRM.
+August, 2022: 20 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2022 : 372
+September, 2022: 36 opportunities converted in Salesforce CRM.
+September, 2022: 23 opportunities converted in SageCRM.
+September, 2022: 63 opportunities converted in SugarCRM.
+September, 2022: 8 opportunities converted in MS Dynamics 365.
+September, 2022: 42 opportunities converted in Zoho CRM.
+September, 2022: 57 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2022 : 408
+October, 2022: 26 opportunities converted in Salesforce CRM.
+October, 2022: 18 opportunities converted in SageCRM.
+October, 2022: 18 opportunities converted in SugarCRM.
+October, 2022: 4 opportunities converted in MS Dynamics 365.
+October, 2022: 24 opportunities converted in Zoho CRM.
+October, 2022: 41 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2022 : 366
+November, 2022: 0 opportunities converted in Salesforce CRM.
+November, 2022: 0 opportunities converted in SageCRM.
+November, 2022: 0 opportunities converted in SugarCRM.
+November, 2022: 0 opportunities converted in MS Dynamics 365.
+November, 2022: 0 opportunities converted in Zoho CRM.
+November, 2022: 0 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2022 : 0
+December, 2022: 27 opportunities converted in Salesforce CRM.
+December, 2022: 10 opportunities converted in SageCRM.
+December, 2022: 29 opportunities converted in SugarCRM.
+December, 2022: 11 opportunities converted in MS Dynamics 365.
+December, 2022: 20 opportunities converted in Zoho CRM.
+December, 2022: 7 opportunities converted in NetSuite CRM.
+Total Leads converted into Opportunities in year 2022 : 228

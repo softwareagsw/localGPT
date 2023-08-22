@@ -1,0 +1,365 @@
+January, 2018: 11 leads added in Salesforce CRM.
+January, 2018: 5 leads added in SageCRM.
+January, 2018: 13 leads added in SugarCRM.
+January, 2018: 18 leads added in MS Dynamics 365.
+January, 2018: 16 leads added in Zoho CRM.
+January, 2018: 10 leads added in NetSuite CRM.
+February, 2018: 81 leads added in Salesforce CRM.
+February, 2018: 110 leads added in SageCRM.
+February, 2018: 105 leads added in SugarCRM.
+February, 2018: 107 leads added in MS Dynamics 365.
+February, 2018: 3 leads added in Zoho CRM.
+February, 2018: 24 leads added in NetSuite CRM.
+March, 2018: 57 leads added in Salesforce CRM.
+March, 2018: 105 leads added in SageCRM.
+March, 2018: 139 leads added in SugarCRM.
+March, 2018: 77 leads added in MS Dynamics 365.
+March, 2018: 37 leads added in Zoho CRM.
+March, 2018: 58 leads added in NetSuite CRM.
+April, 2018: 2 leads added in Salesforce CRM.
+April, 2018: 30 leads added in SageCRM.
+April, 2018: 18 leads added in SugarCRM.
+April, 2018: 25 leads added in MS Dynamics 365.
+April, 2018: 17 leads added in Zoho CRM.
+April, 2018: 3 leads added in NetSuite CRM.
+May, 2018: 34 leads added in Salesforce CRM.
+May, 2018: 28 leads added in SageCRM.
+May, 2018: 33 leads added in SugarCRM.
+May, 2018: 27 leads added in MS Dynamics 365.
+May, 2018: 0 leads added in Zoho CRM.
+May, 2018: 40 leads added in NetSuite CRM.
+June, 2018: 20 leads added in Salesforce CRM.
+June, 2018: 7 leads added in SageCRM.
+June, 2018: 2 leads added in SugarCRM.
+June, 2018: 17 leads added in MS Dynamics 365.
+June, 2018: 17 leads added in Zoho CRM.
+June, 2018: 21 leads added in NetSuite CRM.
+July, 2018: 9 leads added in Salesforce CRM.
+July, 2018: 11 leads added in SageCRM.
+July, 2018: 11 leads added in SugarCRM.
+July, 2018: 9 leads added in MS Dynamics 365.
+July, 2018: 12 leads added in Zoho CRM.
+July, 2018: 7 leads added in NetSuite CRM.
+August, 2018: 88 leads added in Salesforce CRM.
+August, 2018: 15 leads added in SageCRM.
+August, 2018: 34 leads added in SugarCRM.
+August, 2018: 66 leads added in MS Dynamics 365.
+August, 2018: 102 leads added in Zoho CRM.
+August, 2018: 16 leads added in NetSuite CRM.
+September, 2018: 115 leads added in Salesforce CRM.
+September, 2018: 69 leads added in SageCRM.
+September, 2018: 112 leads added in SugarCRM.
+September, 2018: 116 leads added in MS Dynamics 365.
+September, 2018: 130 leads added in Zoho CRM.
+September, 2018: 140 leads added in NetSuite CRM.
+October, 2018: 2 leads added in Salesforce CRM.
+October, 2018: 1 leads added in SageCRM.
+October, 2018: 4 leads added in SugarCRM.
+October, 2018: 0 leads added in MS Dynamics 365.
+October, 2018: 3 leads added in Zoho CRM.
+October, 2018: 3 leads added in NetSuite CRM.
+November, 2018: 11 leads added in Salesforce CRM.
+November, 2018: 8 leads added in SageCRM.
+November, 2018: 9 leads added in SugarCRM.
+November, 2018: 5 leads added in MS Dynamics 365.
+November, 2018: 5 leads added in Zoho CRM.
+November, 2018: 8 leads added in NetSuite CRM.
+December, 2018: 53 leads added in Salesforce CRM.
+December, 2018: 6 leads added in SageCRM.
+December, 2018: 175 leads added in SugarCRM.
+December, 2018: 54 leads added in MS Dynamics 365.
+December, 2018: 105 leads added in Zoho CRM.
+December, 2018: 82 leads added in NetSuite CRM.
+Total Leads created in year 2018 : 938
+January, 2019: 85 leads added in Salesforce CRM.
+January, 2019: 51 leads added in SageCRM.
+January, 2019: 62 leads added in SugarCRM.
+January, 2019: 5 leads added in MS Dynamics 365.
+January, 2019: 151 leads added in Zoho CRM.
+January, 2019: 33 leads added in NetSuite CRM.
+February, 2019: 46 leads added in Salesforce CRM.
+February, 2019: 42 leads added in SageCRM.
+February, 2019: 27 leads added in SugarCRM.
+February, 2019: 21 leads added in MS Dynamics 365.
+February, 2019: 33 leads added in Zoho CRM.
+February, 2019: 2 leads added in NetSuite CRM.
+March, 2019: 50 leads added in Salesforce CRM.
+March, 2019: 118 leads added in SageCRM.
+March, 2019: 107 leads added in SugarCRM.
+March, 2019: 73 leads added in MS Dynamics 365.
+March, 2019: 32 leads added in Zoho CRM.
+March, 2019: 127 leads added in NetSuite CRM.
+April, 2019: 5 leads added in Salesforce CRM.
+April, 2019: 24 leads added in SageCRM.
+April, 2019: 33 leads added in SugarCRM.
+April, 2019: 9 leads added in MS Dynamics 365.
+April, 2019: 11 leads added in Zoho CRM.
+April, 2019: 15 leads added in NetSuite CRM.
+May, 2019: 52 leads added in Salesforce CRM.
+May, 2019: 114 leads added in SageCRM.
+May, 2019: 70 leads added in SugarCRM.
+May, 2019: 43 leads added in MS Dynamics 365.
+May, 2019: 61 leads added in Zoho CRM.
+May, 2019: 14 leads added in NetSuite CRM.
+June, 2019: 56 leads added in Salesforce CRM.
+June, 2019: 57 leads added in SageCRM.
+June, 2019: 14 leads added in SugarCRM.
+June, 2019: 2 leads added in MS Dynamics 365.
+June, 2019: 44 leads added in Zoho CRM.
+June, 2019: 8 leads added in NetSuite CRM.
+July, 2019: 30 leads added in Salesforce CRM.
+July, 2019: 41 leads added in SageCRM.
+July, 2019: 74 leads added in SugarCRM.
+July, 2019: 64 leads added in MS Dynamics 365.
+July, 2019: 82 leads added in Zoho CRM.
+July, 2019: 70 leads added in NetSuite CRM.
+August, 2019: 11 leads added in Salesforce CRM.
+August, 2019: 40 leads added in SageCRM.
+August, 2019: 39 leads added in SugarCRM.
+August, 2019: 12 leads added in MS Dynamics 365.
+August, 2019: 100 leads added in Zoho CRM.
+August, 2019: 58 leads added in NetSuite CRM.
+September, 2019: 24 leads added in Salesforce CRM.
+September, 2019: 28 leads added in SageCRM.
+September, 2019: 39 leads added in SugarCRM.
+September, 2019: 103 leads added in MS Dynamics 365.
+September, 2019: 111 leads added in Zoho CRM.
+September, 2019: 44 leads added in NetSuite CRM.
+October, 2019: 18 leads added in Salesforce CRM.
+October, 2019: 19 leads added in SageCRM.
+October, 2019: 17 leads added in SugarCRM.
+October, 2019: 9 leads added in MS Dynamics 365.
+October, 2019: 12 leads added in Zoho CRM.
+October, 2019: 5 leads added in NetSuite CRM.
+November, 2019: 35 leads added in Salesforce CRM.
+November, 2019: 16 leads added in SageCRM.
+November, 2019: 3 leads added in SugarCRM.
+November, 2019: 5 leads added in MS Dynamics 365.
+November, 2019: 29 leads added in Zoho CRM.
+November, 2019: 19 leads added in NetSuite CRM.
+December, 2019: 56 leads added in Salesforce CRM.
+December, 2019: 17 leads added in SageCRM.
+December, 2019: 52 leads added in SugarCRM.
+December, 2019: 36 leads added in MS Dynamics 365.
+December, 2019: 46 leads added in Zoho CRM.
+December, 2019: 51 leads added in NetSuite CRM.
+Total Leads created in year 2019 : 1097
+January, 2020: 131 leads added in Salesforce CRM.
+January, 2020: 149 leads added in SageCRM.
+January, 2020: 3 leads added in SugarCRM.
+January, 2020: 108 leads added in MS Dynamics 365.
+January, 2020: 56 leads added in Zoho CRM.
+January, 2020: 21 leads added in NetSuite CRM.
+February, 2020: 13 leads added in Salesforce CRM.
+February, 2020: 2 leads added in SageCRM.
+February, 2020: 21 leads added in SugarCRM.
+February, 2020: 11 leads added in MS Dynamics 365.
+February, 2020: 5 leads added in Zoho CRM.
+February, 2020: 17 leads added in NetSuite CRM.
+March, 2020: 114 leads added in Salesforce CRM.
+March, 2020: 19 leads added in SageCRM.
+March, 2020: 67 leads added in SugarCRM.
+March, 2020: 40 leads added in MS Dynamics 365.
+March, 2020: 28 leads added in Zoho CRM.
+March, 2020: 141 leads added in NetSuite CRM.
+April, 2020: 1 leads added in Salesforce CRM.
+April, 2020: 1 leads added in SageCRM.
+April, 2020: 1 leads added in SugarCRM.
+April, 2020: 1 leads added in MS Dynamics 365.
+April, 2020: 1 leads added in Zoho CRM.
+April, 2020: 1 leads added in NetSuite CRM.
+May, 2020: 0 leads added in Salesforce CRM.
+May, 2020: 6 leads added in SageCRM.
+May, 2020: 8 leads added in SugarCRM.
+May, 2020: 1 leads added in MS Dynamics 365.
+May, 2020: 2 leads added in Zoho CRM.
+May, 2020: 0 leads added in NetSuite CRM.
+June, 2020: 17 leads added in Salesforce CRM.
+June, 2020: 17 leads added in SageCRM.
+June, 2020: 53 leads added in SugarCRM.
+June, 2020: 14 leads added in MS Dynamics 365.
+June, 2020: 54 leads added in Zoho CRM.
+June, 2020: 59 leads added in NetSuite CRM.
+July, 2020: 24 leads added in Salesforce CRM.
+July, 2020: 7 leads added in SageCRM.
+July, 2020: 2 leads added in SugarCRM.
+July, 2020: 13 leads added in MS Dynamics 365.
+July, 2020: 7 leads added in Zoho CRM.
+July, 2020: 26 leads added in NetSuite CRM.
+August, 2020: 2 leads added in Salesforce CRM.
+August, 2020: 36 leads added in SageCRM.
+August, 2020: 50 leads added in SugarCRM.
+August, 2020: 23 leads added in MS Dynamics 365.
+August, 2020: 8 leads added in Zoho CRM.
+August, 2020: 0 leads added in NetSuite CRM.
+September, 2020: 101 leads added in Salesforce CRM.
+September, 2020: 19 leads added in SageCRM.
+September, 2020: 23 leads added in SugarCRM.
+September, 2020: 106 leads added in MS Dynamics 365.
+September, 2020: 31 leads added in Zoho CRM.
+September, 2020: 104 leads added in NetSuite CRM.
+October, 2020: 61 leads added in Salesforce CRM.
+October, 2020: 125 leads added in SageCRM.
+October, 2020: 186 leads added in SugarCRM.
+October, 2020: 125 leads added in MS Dynamics 365.
+October, 2020: 53 leads added in Zoho CRM.
+October, 2020: 140 leads added in NetSuite CRM.
+November, 2020: 72 leads added in Salesforce CRM.
+November, 2020: 48 leads added in SageCRM.
+November, 2020: 32 leads added in SugarCRM.
+November, 2020: 46 leads added in MS Dynamics 365.
+November, 2020: 47 leads added in Zoho CRM.
+November, 2020: 70 leads added in NetSuite CRM.
+December, 2020: 124 leads added in Salesforce CRM.
+December, 2020: 55 leads added in SageCRM.
+December, 2020: 103 leads added in SugarCRM.
+December, 2020: 179 leads added in MS Dynamics 365.
+December, 2020: 56 leads added in Zoho CRM.
+December, 2020: 122 leads added in NetSuite CRM.
+Total Leads created in year 2020 : 1150
+January, 2021: 9 leads added in Salesforce CRM.
+January, 2021: 30 leads added in SageCRM.
+January, 2021: 20 leads added in SugarCRM.
+January, 2021: 28 leads added in MS Dynamics 365.
+January, 2021: 21 leads added in Zoho CRM.
+January, 2021: 11 leads added in NetSuite CRM.
+February, 2021: 33 leads added in Salesforce CRM.
+February, 2021: 18 leads added in SageCRM.
+February, 2021: 37 leads added in SugarCRM.
+February, 2021: 35 leads added in MS Dynamics 365.
+February, 2021: 37 leads added in Zoho CRM.
+February, 2021: 17 leads added in NetSuite CRM.
+March, 2021: 1 leads added in Salesforce CRM.
+March, 2021: 0 leads added in SageCRM.
+March, 2021: 0 leads added in SugarCRM.
+March, 2021: 1 leads added in MS Dynamics 365.
+March, 2021: 0 leads added in Zoho CRM.
+March, 2021: 1 leads added in NetSuite CRM.
+April, 2021: 77 leads added in Salesforce CRM.
+April, 2021: 5 leads added in SageCRM.
+April, 2021: 20 leads added in SugarCRM.
+April, 2021: 35 leads added in MS Dynamics 365.
+April, 2021: 93 leads added in Zoho CRM.
+April, 2021: 43 leads added in NetSuite CRM.
+May, 2021: 122 leads added in Salesforce CRM.
+May, 2021: 120 leads added in SageCRM.
+May, 2021: 78 leads added in SugarCRM.
+May, 2021: 1 leads added in MS Dynamics 365.
+May, 2021: 143 leads added in Zoho CRM.
+May, 2021: 44 leads added in NetSuite CRM.
+June, 2021: 73 leads added in Salesforce CRM.
+June, 2021: 44 leads added in SageCRM.
+June, 2021: 54 leads added in SugarCRM.
+June, 2021: 96 leads added in MS Dynamics 365.
+June, 2021: 85 leads added in Zoho CRM.
+June, 2021: 39 leads added in NetSuite CRM.
+July, 2021: 145 leads added in Salesforce CRM.
+July, 2021: 99 leads added in SageCRM.
+July, 2021: 119 leads added in SugarCRM.
+July, 2021: 185 leads added in MS Dynamics 365.
+July, 2021: 32 leads added in Zoho CRM.
+July, 2021: 69 leads added in NetSuite CRM.
+August, 2021: 110 leads added in Salesforce CRM.
+August, 2021: 65 leads added in SageCRM.
+August, 2021: 103 leads added in SugarCRM.
+August, 2021: 43 leads added in MS Dynamics 365.
+August, 2021: 29 leads added in Zoho CRM.
+August, 2021: 119 leads added in NetSuite CRM.
+September, 2021: 72 leads added in Salesforce CRM.
+September, 2021: 101 leads added in SageCRM.
+September, 2021: 120 leads added in SugarCRM.
+September, 2021: 49 leads added in MS Dynamics 365.
+September, 2021: 62 leads added in Zoho CRM.
+September, 2021: 18 leads added in NetSuite CRM.
+October, 2021: 157 leads added in Salesforce CRM.
+October, 2021: 127 leads added in SageCRM.
+October, 2021: 57 leads added in SugarCRM.
+October, 2021: 102 leads added in MS Dynamics 365.
+October, 2021: 23 leads added in Zoho CRM.
+October, 2021: 178 leads added in NetSuite CRM.
+November, 2021: 28 leads added in Salesforce CRM.
+November, 2021: 10 leads added in SageCRM.
+November, 2021: 42 leads added in SugarCRM.
+November, 2021: 54 leads added in MS Dynamics 365.
+November, 2021: 80 leads added in Zoho CRM.
+November, 2021: 7 leads added in NetSuite CRM.
+December, 2021: 1 leads added in Salesforce CRM.
+December, 2021: 0 leads added in SageCRM.
+December, 2021: 1 leads added in SugarCRM.
+December, 2021: 0 leads added in MS Dynamics 365.
+December, 2021: 1 leads added in Zoho CRM.
+December, 2021: 1 leads added in NetSuite CRM.
+Total Leads created in year 2021 : 1299
+January, 2022: 2 leads added in Salesforce CRM.
+January, 2022: 1 leads added in SageCRM.
+January, 2022: 3 leads added in SugarCRM.
+January, 2022: 3 leads added in MS Dynamics 365.
+January, 2022: 0 leads added in Zoho CRM.
+January, 2022: 3 leads added in NetSuite CRM.
+February, 2022: 12 leads added in Salesforce CRM.
+February, 2022: 193 leads added in SageCRM.
+February, 2022: 177 leads added in SugarCRM.
+February, 2022: 4 leads added in MS Dynamics 365.
+February, 2022: 146 leads added in Zoho CRM.
+February, 2022: 137 leads added in NetSuite CRM.
+March, 2022: 8 leads added in Salesforce CRM.
+March, 2022: 25 leads added in SageCRM.
+March, 2022: 14 leads added in SugarCRM.
+March, 2022: 1 leads added in MS Dynamics 365.
+March, 2022: 1 leads added in Zoho CRM.
+March, 2022: 12 leads added in NetSuite CRM.
+April, 2022: 14 leads added in Salesforce CRM.
+April, 2022: 19 leads added in SageCRM.
+April, 2022: 10 leads added in SugarCRM.
+April, 2022: 20 leads added in MS Dynamics 365.
+April, 2022: 16 leads added in Zoho CRM.
+April, 2022: 15 leads added in NetSuite CRM.
+May, 2022: 8 leads added in Salesforce CRM.
+May, 2022: 12 leads added in SageCRM.
+May, 2022: 33 leads added in SugarCRM.
+May, 2022: 19 leads added in MS Dynamics 365.
+May, 2022: 33 leads added in Zoho CRM.
+May, 2022: 77 leads added in NetSuite CRM.
+June, 2022: 146 leads added in Salesforce CRM.
+June, 2022: 122 leads added in SageCRM.
+June, 2022: 161 leads added in SugarCRM.
+June, 2022: 54 leads added in MS Dynamics 365.
+June, 2022: 22 leads added in Zoho CRM.
+June, 2022: 161 leads added in NetSuite CRM.
+July, 2022: 8 leads added in Salesforce CRM.
+July, 2022: 11 leads added in SageCRM.
+July, 2022: 18 leads added in SugarCRM.
+July, 2022: 29 leads added in MS Dynamics 365.
+July, 2022: 13 leads added in Zoho CRM.
+July, 2022: 1 leads added in NetSuite CRM.
+August, 2022: 98 leads added in Salesforce CRM.
+August, 2022: 48 leads added in SageCRM.
+August, 2022: 174 leads added in SugarCRM.
+August, 2022: 88 leads added in MS Dynamics 365.
+August, 2022: 183 leads added in Zoho CRM.
+August, 2022: 17 leads added in NetSuite CRM.
+September, 2022: 59 leads added in Salesforce CRM.
+September, 2022: 101 leads added in SageCRM.
+September, 2022: 89 leads added in SugarCRM.
+September, 2022: 70 leads added in MS Dynamics 365.
+September, 2022: 5 leads added in Zoho CRM.
+September, 2022: 97 leads added in NetSuite CRM.
+October, 2022: 88 leads added in Salesforce CRM.
+October, 2022: 82 leads added in SageCRM.
+October, 2022: 87 leads added in SugarCRM.
+October, 2022: 42 leads added in MS Dynamics 365.
+October, 2022: 56 leads added in Zoho CRM.
+October, 2022: 35 leads added in NetSuite CRM.
+November, 2022: 6 leads added in Salesforce CRM.
+November, 2022: 42 leads added in SageCRM.
+November, 2022: 10 leads added in SugarCRM.
+November, 2022: 34 leads added in MS Dynamics 365.
+November, 2022: 8 leads added in Zoho CRM.
+November, 2022: 11 leads added in NetSuite CRM.
+December, 2022: 85 leads added in Salesforce CRM.
+December, 2022: 84 leads added in SageCRM.
+December, 2022: 51 leads added in SugarCRM.
+December, 2022: 11 leads added in MS Dynamics 365.
+December, 2022: 95 leads added in Zoho CRM.
+December, 2022: 63 leads added in NetSuite CRM.
+Total Leads created in year 2022 : 1159
