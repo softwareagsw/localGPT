@@ -48,12 +48,15 @@ def load_model(device_type, model_id, model_basename=None):
         tokenizer = AutoTokenizer.from_pretrained(model_id, use_fast=True)
         logging.info('Tokenizer loaded')
 
-        model = AutoGPTQForCausalLM.from_quantized(model_id,
-        model_basename=model_basename,
-        device="cuda:0",
-        use_safetensors=True,
-        use_triton=False)
-        
+        model = AutoGPTQForCausalLM.from_quantized(
+            model_id,
+            model_basename=model_basename,
+            use_safetensors=True,
+            trust_remote_code=True,
+            device="cuda:0",
+            use_triton=False,
+            quantize_config=None
+        )
     elif device_type.lower() == 'cuda': # The code supports all huggingface models that ends with -HF or which have a .bin file in their HF repo.
         print('Using AutoModelForCausalLM for full models')
         tokenizer = AutoTokenizer.from_pretrained(model_id)
@@ -120,7 +123,7 @@ def load_model(device_type, model_id, model_basename=None):
 #    help="Show sources along with answers (Default is Fals)",
 #)
 model_id = "TheBloke/WizardLM-7B-uncensored-GPTQ"
-model_basename ="WizardLM-7B-uncensored-GPTQ-4bit-128g.compat.no-act-order"
+model_basename = "WizardLM-7B-uncensored-GPTQ-4bit-128g.compat.no-act-order.safetensors"
 llm = load_model("cuda", model_id=model_id, model_basename = model_basename)
 
 def greet(query):
