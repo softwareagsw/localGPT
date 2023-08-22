@@ -48,15 +48,12 @@ def load_model(device_type, model_id, model_basename=None):
         tokenizer = AutoTokenizer.from_pretrained(model_id, use_fast=True)
         logging.info('Tokenizer loaded')
 
-        model = AutoGPTQForCausalLM.from_quantized(
-            model_id,
-            model_basename=model_basename,
-            use_safetensors=True,
-            trust_remote_code=True,
-            device="cuda:0",
-            use_triton=False,
-            quantize_config=None
-        )
+        model = AutoGPTQForCausalLM.from_quantized(model_id,
+        model_basename=model_basename,
+        device=device,
+        use_safetensors=True,
+        use_triton=False)
+        
     elif device_type.lower() == 'cuda': # The code supports all huggingface models that ends with -HF or which have a .bin file in their HF repo.
         print('Using AutoModelForCausalLM for full models')
         tokenizer = AutoTokenizer.from_pretrained(model_id)
